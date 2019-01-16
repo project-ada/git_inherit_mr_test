@@ -2,3 +2,4 @@
 used by git gatherer tests
 
 C1
+C2
